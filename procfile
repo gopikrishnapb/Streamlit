@@ -1,2 +1,2 @@
-#Copy the code
-       web: sh setup.sh && streamlit run Assign4.py
+web: sh setup.sh && streamlit run Assign4.py
+       
